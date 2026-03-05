@@ -1,6 +1,6 @@
 
 const livevalue=document.getElementById("action");
-productForm.addEventListener('submit',function(e){
+livevalue.addEventListener('submit',function(e){
     const emailvalue=document.getElementById("email");
     const passworkvalue=document.getElementById("passwork");
     let user=[email="nva@gmail.com",passwork="12345"];
